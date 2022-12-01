@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;900&family=Staatliches&display=swap");
+* {
+  margin: 0;
+  padding: 0; }
+
+.texto__logo {
+    font-family: 'Staatliches', cursive;
+    color: rgb(161, 78, 22); }
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(74, 48, 11);
+
+}
+
+
+.text__teatro{
+    color: white;
+    font-size: 25px;
+    margin-top: 60px;
+}
+
+.text__teatro2{
+    color: white;
+    font-size: 18px;
+    margin-top: 12px;
+}
+.text__teatro3{
+    color: white;
+    font-size: 20px;
+    margin-top: 45px;
+    
+}
+.text__teatro4{
+    color: white;
+    font-size: 25px;
+    margin-top: 11px; 
+}
+.texto__footer{
+    color: rgb(255, 244, 244);
+    font-size: 10px;
+}
+.titulo__paginas{
+    color: rgb(104, 209, 220);
+}
